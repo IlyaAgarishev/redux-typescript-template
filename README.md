@@ -1,1 +1,1 @@
-Redux Typescript Template
+Redux(without Toolkit) Typescript Template
